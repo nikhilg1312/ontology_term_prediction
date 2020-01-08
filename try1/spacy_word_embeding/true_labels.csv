@@ -1,0 +1,1567 @@
+IRI,LABEL
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25190,Person
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150,Age
+http://purl.obolibrary.org/obo/UO_0000036,year
+http://purl.bioontology.org/ontology/STY/T058,Health Care Activity
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25725,Intent
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3079,Heart Disorder
+http://purl.bioontology.org/ontology/STY/T191,Neoplastic Process
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28421,Sex
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960,Patient
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3262,Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4741,Neoplasm by Morphology
+http://purl.bioontology.org/ontology/STY/T033,Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25218,Intervention or Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19326,Clinics and Hospitals
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19326,Institute
+http://www.cancerdata.org/roo/C100060,Person Identifier
+http://purl.bioontology.org/ontology/STY/T017,Anatomical Structure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20641,Performance Status
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48232,Cancer TNM Finding
+http://www.cancerdata.org/roo/C100051,AJCC Edition
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94488,Stature
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81328,Body Weight
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2991,Disease or Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25714,Version
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25188,Marital Status
+http://www.cancerdata.org/roo/C100319,Patient GUID
+http://www.cancerdata.org/roo/C100319,Patient UUID
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25155,Birth
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25185,Laterality
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101516,Palliative
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C101642,Adjuvant Radiotherapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15313,Radiation Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15675,Adjuvant Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C102955,Great Blood Vessel
+http://purl.bioontology.org/ontology/STY/T023,"Body Part, Organ, or Organ Component"
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C103267,Narrow Surgical Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41227,Surgical Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104933,Volume Modulated Arc Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104941,Scanning Proton Beam Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66897,Proton Beam Radiation Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104942,Scattering Proton Beam Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105721,ECOG Performance Status
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25400,Zubrod Performance Status
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105722,ECOG Performance Status 0
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105723,ECOG Performance Status 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105725,ECOG Performance Status 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105726,ECOG Performance Status 3
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105727,ECOG Performance Status 4
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105728,ECOG Performance Status 5
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106304,Tumor Regression Grade
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106304,TRG
+http://purl.bioontology.org/ontology/STY/T185,Classification
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C11197,FOLFOX Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C11197,CF/5-FU/L-OHP
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C11197,Fluorouracil/Leucovorin Calcium/Oxaliplatin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63586,Chemotherapy Regimen Used to Treat Colorectal Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1181,Oxaliplatin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C505,Fluorouracil
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C505,5-FU
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C505,5-Fluorouracil
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C607,Leucovorin Calcium
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C607,Calcium Folinate
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112376,Percent Predicted Forced Expiratory Volume in 1 Second
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25613,Percentage
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112816,Dose Volume Histogram
+http://purl.bioontology.org/ontology/STY/T170,Intellectual Product
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112913,Gross Target Volume
+http://www.cancerdata.org/roo/C100598,Gross Tumor Volume
+http://www.cancerdata.org/roo/C100598,GTV
+http://www.cancerdata.org/roo/C100607,Target Volume
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113716,Low Anterior Resection
+http://purl.bioontology.org/ontology/RCD/X20Y4,Anterior resection of rectum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113730,Grade X
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C113730,GX
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28076,Disease Grade Qualifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116430,4-Dimensional Conformal Radiation Therapy
+http://www.cancerdata.org/roo/C100639,Motion Management Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116441,4-Dimensional Computed Tomography
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116441,4DCT
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116441,RC-CT
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116441,Respiratory Correlated CT
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17204,Computed Tomography
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116509,Robot-Assisted Laparoscopic Surgery
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15725,Laparoscopic Surgery
+http://purl.bioontology.org/ontology/STY/T121,Pharmacologic Substance
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118286,Stereotactic Body Radiation Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118286,SBRT
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120274,Macroscopically Positive Surgical Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48620,Positive Surgical Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120277,Grossly Negative and Microscopically Positive Surgical Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120284,Tumor Size
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25681,Size
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12218,Chemotherapy Regimen or Agent Combination
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15697,Treatment Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15697,Treatment Protocol
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12253,Upper Third of the Esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12253,Upper Esophagus
+http://purl.org/sig/ont/fma/fma55269,Segment of esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12254,Middle Third of the Esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12254,Middle Esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12255,Lower Third of the Esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12255,Lower Esophagus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123603,Pathologic Complete Response
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123603,Complete Pathological Response
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123603,pCR
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50995,Disease Response
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50995,Response
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12512,Supratentorial Brain
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125609,4D PET Scan
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125609,4D Gated PET Scan
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17007,Positron Emission Tomography
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17007,PET Scan
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1275,Vinorelbine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1282,Carboplatin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1450,Platinum Compound
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1331,Epipodophyllotoxin Compound
+http://purl.bioontology.org/ontology/STY/T104,Chemical Viewed Structurally
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13345,Stoma
+http://purl.bioontology.org/ontology/STY/T020,Acquired Abnormality
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C136485,Stage IA3
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27975,Stage IA
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1411,Paclitaxel
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1490,Taxane Compound
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C141461,Occult Stage
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28108,Disease Stage Qualifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14151,Unresectable
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28103,Disease Treatment Qualifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14162,Moderately Differentiated
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18000,Histologic Grade
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14167,Poorly Differentiated
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14171,Well Differentiated
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14284,Woman
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16576,Female
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14366,Man
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20197,Male
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15189,Biopsy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18020,Diagnostic Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15212,Multimodality Therapy
+http://purl.bioontology.org/ontology/STY/T061,Therapeutic or Preventive Procedure
+http://www.cancerdata.org/roo/C100256,Unimodality Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1526,Docetaxel
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15266,Laparotomy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15329,Surgical Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15275,Lymphadenectomy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15275,Lymph Node Dissection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15305,Pneumonectomy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15655,Thoracic Surgical Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49236,Therapeutic Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15358,Stereotactic Radiosurgery
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15360,Adjuvant Chemotherapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15632,Chemotherapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15382,Gamma Knife
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15654,Fractionation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15665,Neoadjuvant Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15688,Maintenance Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16033,Follow-up
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16035,3-Dimensional Conformal Radiation Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16035,3D-CRT
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16120,Abdominal Surgical Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16135,Intensity-Modulated Radiation Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16135,IMRT
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16180,Total Mesorectal Excision
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16180,TME
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64982,Therapeutic Surgical Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16358,Body Mass Index
+http://purl.bioontology.org/ontology/STY/T201,Clinical Attribute
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16457,Comorbidity
+http://purl.bioontology.org/ontology/STY/T047,Disease or Syndrome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16493,Data Source
+http://purl.bioontology.org/ontology/STY/T080,Qualitative Concept
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16809,Magnetic Resonance Imaging
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1723,Cetuximab
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357,Gender
+http://purl.bioontology.org/ontology/STY/T032,Organism Attribute
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17427,Smoking Cessation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17427,nicotine_stop
+http://purl.bioontology.org/ontology/STY/T055,Individual Behavior
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17610,Blood Sample
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70699,Biospecimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1794,Capecitabine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1794,Xeloda
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18009,Tumor Tissue
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19697,Tissue Sample
+http://purl.bioontology.org/ontology/STY/T060,Diagnostic Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1804,Raltitrexed
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1804,Tomudex
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1820,Mitomycin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1820,Mitomycin-C
+http://purl.bioontology.org/ontology/STY/T195,Antibiotic
+http://purl.bioontology.org/ontology/STY/T093,Health Care Related Organization
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19796,Smoking Status
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20188,Social Circumstances
+http://purl.bioontology.org/ontology/STY/T077,Conceptual Entity
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20200,Outcome
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2039,Bevacizumab
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21514,Temporal Qualifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C247,ACE Inhibitor
+http://purl.bioontology.org/ontology/STY/T120,Chemical Viewed Functionally
+http://purl.bioontology.org/ontology/STY/T040,Organism Function
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164,Date
+http://purl.bioontology.org/ontology/STY/T079,Temporal Concept
+http://purl.bioontology.org/ontology/STY/T082,Spatial Concept
+http://purl.bioontology.org/ontology/STY/T016,Human
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25208,Weight
+http://www.cancerdata.org/roo/C100246,Quantity
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25228,Right
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25229,Left
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25330,Duration
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25334,Length
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25335,Volume
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25347,Height
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364,Identifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25419,Anal Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25419,Anal Verge
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25463,Count
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25488,Dose
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25514,Fraction
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25563,Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25621,Postal Code
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25653,Resectable
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25717,Vital Status
+http://purl.bioontology.org/ontology/STY/T169,Functional Concept
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26871,Respiratory System Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27672,Non-Neoplastic Cardiovascular Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2931,Cardiovascular Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27966,Stage I
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27970,Stage III
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27971,Stage IV
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27976,Stage IB
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27977,Stage IIIA
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27978,Stage IIIB
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27979,Stage IVA
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27980,Stage IVB
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27982,Stage IIIC
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27983,Stage IA1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27984,Stage IA2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27967,Stage IIA
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28054,Stage II
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95805,T1mi Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48885,Generic Primary Tumor TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27968,Stage IIB
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28051,Stage 0
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28077,Grade 1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28077,G1
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28078,Grade 2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28078,G2
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28079,Grade 3
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28079,G3
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28082,Grade 4
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28082,G4
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28384,Tumor Burden
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94515,Tumor Volume
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2852,Adenocarcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28554,Death
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2926,Non-Small Cell Lung Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7377,Malignant Lung Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2929,Squamous Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3780,Large Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65151,Non-Small Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2985,Diabetes Mellitus
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3009,Endocrine System Disorder
+http://purl.bioontology.org/ontology/STY/T046,Pathologic Function
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3367,Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3445,Weight Loss
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35755,Non-Neoplastic Respiratory Disorder
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3577,Metastatic Malignant Neoplasm in the Lung
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3577,Lung Metastasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36263,Metastatic Malignant Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36263,Metastasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3580,Metastatic Malignant Neoplasm in the Bone
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3580,Bone Metastasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35933,Distantly Metastatic Malignant Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35933,Distant Metastasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35934,Locally Metastatic Malignant Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35934,Regional Cancer
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36255,Secondary Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C376,Cisplatin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37901,Site
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37987,Life
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38081,Pulmonary Function Test
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38083,Carbon Monoxide Diffusing Capability Test
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38083,DLCO
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38084,Forced Expiratory Volume in 1 Second
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3813,Metastatic Malignant Neoplasm in the Brain
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3813,Brain Metastasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38155,Recurrent Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3910,Molecular Abnormality
+http://purl.bioontology.org/ontology/STY/T049,Cell or Molecular Dysfunction
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3915,Small Cell Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40413,No Evidence of Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C40430,BRAF Gene Mutation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C405,Cyclophosphamide
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41009,Qualifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41331,Adverse Event
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41361,KRAS Gene Mutation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45313,Part
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C456,Doxorubicin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C46085,Circumferential Resection Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C46109,Male Gender
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C46110,Female Gender
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4758,Metastatic Malignant Neoplasm in the Liver
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4758,Liver Metastasis
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47850,Lymphatic Invasion
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48558,No Evidence of Metastatic Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48621,Negative Surgical Margin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48699,M0 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48883,Generic Distant Metastasis TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48700,M1 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48701,M1a Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48702,M1b Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48703,M1c Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48704,MX Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48705,N0 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48884,Generic Regional Lymph Nodes TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48706,N1 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48714,N3 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48718,NX Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48719,T0 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48720,T1 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48721,T1a Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48722,T1b Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48723,T1c Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48724,T2 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48725,T2a Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48726,T2b Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48727,T2c Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48728,T3 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48732,T4 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48737,TX Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48738,Tis Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48739,Pathologic TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48786,N2 Stage Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48879,Generic TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48881,Clinical TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48886,Pathologic Distant Metastasis TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48887,Pathologic Regional Lymph Nodes TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48888,Pathologic Primary Tumor TNM Finding
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48935,Regional Lymph Node Dissection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48944,Lobe of the Right Lung
+http://purl.org/sig/ont/fma/fma7311,Lobe of lung
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48945,Lobe of the Left Lung
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C491,Etoposide
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C4917,Small Cell Lung Carcinoma
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C50646,Medical Contraindication
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51625,Wedge Resection of Lung
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51773,Married
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51774,Never Married
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51775,Widowed
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51776,Divorced
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51777,Separated
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51949,Lymphocyte Count
+http://purl.bioontology.org/ontology/STY/T034,Laboratory or Test Result
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53255,Adverse Event Attribution Category
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53256,Unrelated to Intervention
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53257,Unlikely Related to Intervention
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53258,Possibly Related to Intervention
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53259,Probably Related to Intervention
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53260,Definitely Related to Intervention
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53262,Domestic Partnership
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53288,Temporary
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53781,Adverse Event by CTCAE Category
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84257,Adverse Event by CTCAE v3 Severity Grade
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53795,Adverse Event Associated with Pulmonary and Upper Respiratory Systems
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53802,Adverse Event Associated with the Gastrointestinal System
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53803,Adverse Event Associated with the Heart in General
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54100,Universally Unique Identifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70663,Unique Identifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54996,CTCAE Grade 1 Hypertension
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C55060,Hypertension Adverse Event
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C55008,CTCAE Grade 2 Hypertension
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C55020,CTCAE Grade 3 Hypertension
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C55034,CTCAE Grade 4 Hypertension
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C55048,CTCAE Grade 5 Hypertension
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C55072,"Recurrent Disease, Primary Site"
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C55073,"Recurrent Disease, Distant Site"
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C57176,CTCAE Grade 1 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C57795,Dysphagia Adverse Event
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C57299,CTCAE Grade 2 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C57425,CTCAE Grade 3 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C57560,CTCAE Grade 4 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C57691,CTCAE Grade 5 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C58037,CTCAE Grade 1 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C58185,Dyspnea Adverse Event
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C58066,CTCAE Grade 2 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C58099,CTCAE Grade 3 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C58131,CTCAE Grade 4 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C58162,CTCAE Grade 5 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61614,Pemetrexed
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62040,Irinotecan
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62165,Prone Position
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62165,Prone
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62167,Supine Position
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62167,Supine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62220,Cure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68786,Radical
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62398,Transanal Excision
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62727,Image Guided Radiation Therapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62727,IGRT
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62731,Tomotherapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63388,FU-LV Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63388,Fluorouracil-Leucovorin Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63388,Mayo Clinic Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63388,Roswell Park Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63388,de Gramont Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63536,Study
+http://purl.bioontology.org/ontology/STY/T062,Research Activity
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63593,FOLFIRI Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63593,FOLFIRI
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63593,Folinic Acid-Fluorouracil-Irinotecan Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63597,XELOX regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63597,XELOX
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63597,Xeloda-Oxaliplatin Regimen
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C63597,Xeloda/Oxalipaltin
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64247,Inoperable
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64848,Hemoglobin Measurement
+http://purl.bioontology.org/ontology/STY/T059,Laboratory Procedure
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108,Never Smoker
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65530,Erlotinib
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66876,Gemcitabine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67147,Current Smoker
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67148,Former Smoker
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68618,Conditionally Related to Intervention
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68619,Relation to Intervention Unclassifiable
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69219,Series Instance UID
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71160,Instance Unique Identifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C69310,Standardized Uptake Value
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70838,Image Feature
+http://purl.bioontology.org/ontology/STY/T031,Body Substance
+http://purl.bioontology.org/ontology/STY/T078,Idea or Concept
+http://purl.bioontology.org/ontology/ICD10/C34,Malignant neoplasm of bronchus and lung
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73993,Pack Year
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7418,Malignant Rectal Neoplasm
+http://purl.bioontology.org/ontology/ICD10/C20,Malignant neoplasm of rectum
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7420,Malignant Rectosigmoid Neoplasm
+http://purl.bioontology.org/ontology/ICD10/C19,Malignant neoplasm of rectosigmoid junction
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C7919,No Measurable or Evaluable Disease
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81239,Cause of Death
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81262,Medical Record Number
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C81945,ALK Gene Mutation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82572,Elapsed Time
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83083,Subject Identifier
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83083,Studynumber
+http://www.cancerdata.org/roo/C100279,CTCAE v3.0
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84259,Adverse Event by CTCAE v4 Severity Grade
+http://www.cancerdata.org/roo/C100272,CTCAE v4.0
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85402,Imaging Region of Interest
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C857,Teniposide
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91826,Abdominoperineal Resection
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C930,Vinblastine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C932,Vinca Alkaloid Compound
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C9311,Malignant Cervical Neoplasm
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C933,Vincristine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C934,Vindesine
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94254,Operable
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94448,Sleeve Lobectomy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94461,Metastasectomy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94626,Chemoradiotherapy
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95181,Absorbed Radiation Dose
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95484,CyberKnife
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C95560,Prophylactic
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96866,ERBB2 Gene Mutation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C96866,HER2 Gene Mutation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98304,AKT1 Gene Mutation
+http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98357,EGFR Gene Mutation
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Adverse_Event_by_System_Organ_Class,Adverse Event by System Organ Class
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Cough,Cough
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Respiratory_thoracic_and_mediastinal_disorders,"Respiratory, thoracic and mediastinal disorders"
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Dysphagia,Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Gastrointestinal_disorders,Gastrointestinal disorders
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Dyspnea,Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Esophageal_stenosis,Esophageal stenosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_1_Cough,Grade 1 Cough
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_1_Dysphagia,Grade 1 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_1_Dyspnea,Grade 1 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_1_Esophageal_stenosis,Grade 1 Esophageal stenosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_2_Cough,Grade 2 Cough
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_2_Dysphagia,Grade 2 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_2_Dyspnea,Grade 2 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_2_Esophageal_stenosis,Grade 2 Esophageal stenosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_3_Cough,Grade 3 Cough
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_3_Dysphagia,Grade 3 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_3_Dyspnea,Grade 3 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_3_Esophageal_stenosis,Grade 3 Esophageal stenosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_4_Dysphagia,Grade 4 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_4_Dyspnea,Grade 4 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_4_Esophageal_stenosis,Grade 4 Esophageal stenosis
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_5_Dysphagia,Grade 5 Dysphagia
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_5_Dyspnea,Grade 5 Dyspnea
+http://ncicb.nci.nih.gov/xml/owl/EVS/ctcae.owl#Grade_5_Esophageal_stenosis,Grade 5 Esophageal stenosis
+http://purl.bioontology.org/ontology/ICD9CM/32.3,Segmental resection of lung
+http://purl.bioontology.org/ontology/ICD9CM/32.3,Partial lobectomy
+http://purl.bioontology.org/ontology/ICD9CM/32.4,Lobectomy of Lung
+http://purl.bioontology.org/ontology/ICD9CM/32.4,Pulmonary lobectomy
+http://purl.bioontology.org/ontology/RCD/X20XN,Colostomy operation
+http://purl.bioontology.org/ontology/RCD/X78tq,Permanent
+http://purl.bioontology.org/ontology/RCD/X7A6g,Residual tumour status stages
+http://purl.bioontology.org/ontology/RCD/X7A6h,Residual tumour stage RX
+http://purl.bioontology.org/ontology/RCD/X7A6i,Residual tumour stage R0
+http://purl.bioontology.org/ontology/RCD/XC0fs,Colostomy - stoma
+http://purl.bioontology.org/ontology/RCD/XC0fs,Colostomy
+http://purl.bioontology.org/ontology/RCD/XE0DI,Construction of temporary colostomy
+http://purl.bioontology.org/ontology/RCD/XE0DJ,Construction of permanent colostomy
+http://purl.bioontology.org/ontology/RCD/XE0DK,Closure of colostomy
+http://purl.bioontology.org/ontology/RCD/Xa0fY,Residual tumour stage R1
+http://purl.bioontology.org/ontology/RCD/Xa0fZ,Residual tumour stage R2
+http://purl.bioontology.org/ontology/RCD/Xa1oS,Excision of lesion of rectum
+http://purl.bioontology.org/ontology/RCD/4I28,Saliva sample
+http://purl.bioontology.org/ontology/RCD/5144,Radiotherapy - preoperative control
+http://purl.bioontology.org/ontology/RCD/5146,Radiotherapy - postoperative control
+http://purl.bioontology.org/ontology/RCD/77201,Hartmann's procedure
+http://purl.bioontology.org/ontology/STY/T001,Organism
+http://purl.bioontology.org/ontology/STY/T072,Physical Object
+http://purl.bioontology.org/ontology/STY/T002,Plant
+http://purl.bioontology.org/ontology/STY/T204,Eukaryote
+http://purl.bioontology.org/ontology/STY/T004,Fungus
+http://purl.bioontology.org/ontology/STY/T005,Virus
+http://purl.bioontology.org/ontology/STY/T007,Bacterium
+http://purl.bioontology.org/ontology/STY/T008,Animal
+http://purl.bioontology.org/ontology/STY/T010,Vertebrate
+http://purl.bioontology.org/ontology/STY/T011,Amphibian
+http://purl.bioontology.org/ontology/STY/T012,Bird
+http://purl.bioontology.org/ontology/STY/T013,Fish
+http://purl.bioontology.org/ontology/STY/T014,Reptile
+http://purl.bioontology.org/ontology/STY/T015,Mammal
+http://www.cancerdata.org/roo/C100069,Organ at Risk (ROI)
+http://purl.bioontology.org/ontology/STY/T018,Embryonic Structure
+http://purl.bioontology.org/ontology/STY/T019,Congenital Abnormality
+http://purl.bioontology.org/ontology/STY/T190,Anatomical Abnormality
+http://purl.bioontology.org/ontology/STY/T021,Fully Formed Anatomical Structure
+http://purl.bioontology.org/ontology/STY/T022,Body System
+http://purl.bioontology.org/ontology/STY/T024,Tissue
+http://purl.bioontology.org/ontology/STY/T025,Cell
+http://purl.bioontology.org/ontology/STY/T026,Cell Component
+http://purl.bioontology.org/ontology/STY/T028,Gene or Genome
+http://purl.bioontology.org/ontology/STY/T029,Body Location or Region
+http://purl.bioontology.org/ontology/STY/T030,Body Space or Junction
+http://purl.bioontology.org/ontology/STY/T167,Substance
+http://purl.bioontology.org/ontology/STY/T037,Injury or Poisoning
+http://purl.bioontology.org/ontology/STY/T067,Phenomenon or Process
+http://purl.bioontology.org/ontology/STY/T038,Biologic Function
+http://purl.bioontology.org/ontology/STY/T070,Natural Phenomenon or Process
+http://purl.bioontology.org/ontology/STY/T039,Physiologic Function
+http://purl.bioontology.org/ontology/STY/T041,Mental Process
+http://purl.bioontology.org/ontology/STY/T042,Organ or Tissue Function
+http://purl.bioontology.org/ontology/STY/T043,Cell Function
+http://purl.bioontology.org/ontology/STY/T044,Molecular Function
+http://purl.bioontology.org/ontology/STY/T045,Genetic Function
+http://purl.bioontology.org/ontology/STY/T048,Mental or Behavioral Dysfunction
+http://purl.bioontology.org/ontology/STY/T050,Experimental Model of Disease
+http://purl.bioontology.org/ontology/STY/T051,Event
+http://purl.bioontology.org/ontology/STY/T052,Activity
+http://purl.bioontology.org/ontology/STY/T053,Behavior
+http://purl.bioontology.org/ontology/STY/T054,Social Behavior
+http://purl.bioontology.org/ontology/STY/T056,Daily or Recreational Activity
+http://purl.bioontology.org/ontology/STY/T057,Occupational Activity
+http://purl.bioontology.org/ontology/STY/T063,Molecular Biology Research Technique
+http://purl.bioontology.org/ontology/STY/T064,Governmental or Regulatory Activity
+http://purl.bioontology.org/ontology/STY/T065,Educational Activity
+http://purl.bioontology.org/ontology/STY/T066,Machine Activity
+http://purl.bioontology.org/ontology/STY/T068,Human-caused Phenomenon or Process
+http://purl.bioontology.org/ontology/STY/T069,Environmental Effect of Humans
+http://purl.bioontology.org/ontology/STY/T071,Entity
+http://purl.bioontology.org/ontology/STY/T073,Manufactured Object
+http://purl.bioontology.org/ontology/STY/T074,Medical Device
+http://purl.bioontology.org/ontology/STY/T075,Research Device
+http://purl.bioontology.org/ontology/STY/T081,Quantitative Concept
+http://purl.bioontology.org/ontology/STY/T083,Geographic Area
+http://purl.bioontology.org/ontology/STY/T085,Molecular Sequence
+http://purl.bioontology.org/ontology/STY/T086,Nucleotide Sequence
+http://purl.bioontology.org/ontology/STY/T087,Amino Acid Sequence
+http://purl.bioontology.org/ontology/STY/T088,Carbohydrate Sequence
+http://purl.bioontology.org/ontology/STY/T089,Regulation or Law
+http://purl.bioontology.org/ontology/STY/T090,Occupation or Discipline
+http://purl.bioontology.org/ontology/STY/T091,Biomedical Occupation or Discipline
+http://purl.bioontology.org/ontology/STY/T092,Organization
+http://purl.bioontology.org/ontology/STY/T094,Professional Society
+http://purl.bioontology.org/ontology/STY/T095,Self-help or Relief Organization
+http://purl.bioontology.org/ontology/STY/T096,Group
+http://purl.bioontology.org/ontology/STY/T097,Professional or Occupational Group
+http://purl.bioontology.org/ontology/STY/T098,Population Group
+http://purl.bioontology.org/ontology/STY/T099,Family Group
+http://purl.bioontology.org/ontology/STY/T100,Age Group
+http://purl.bioontology.org/ontology/STY/T101,Patient or Disabled Group
+http://purl.bioontology.org/ontology/STY/T102,Group Attribute
+http://purl.bioontology.org/ontology/STY/T103,Chemical
+http://purl.bioontology.org/ontology/STY/T109,Organic Chemical
+http://purl.bioontology.org/ontology/STY/T110,Steroid
+http://purl.bioontology.org/ontology/STY/T119,Lipid
+http://purl.bioontology.org/ontology/STY/T111,Eicosanoid
+http://purl.bioontology.org/ontology/STY/T114,"Nucleic Acid, Nucleoside, or Nucleotide"
+http://purl.bioontology.org/ontology/STY/T115,Organophosphorus Compound
+http://purl.bioontology.org/ontology/STY/T116,"Amino Acid, Peptide, or Protein"
+http://purl.bioontology.org/ontology/STY/T118,Carbohydrate
+http://purl.bioontology.org/ontology/STY/T122,Biomedical or Dental Material
+http://purl.bioontology.org/ontology/STY/T123,Biologically Active Substance
+http://purl.bioontology.org/ontology/STY/T124,Neuroreactive Substance or Biogenic Amine
+http://purl.bioontology.org/ontology/STY/T125,Hormone
+http://purl.bioontology.org/ontology/STY/T126,Enzyme
+http://purl.bioontology.org/ontology/STY/T127,Vitamin
+http://purl.bioontology.org/ontology/STY/T129,Immunologic Factor
+http://purl.bioontology.org/ontology/STY/T130,"Indicator, Reagent, or Diagnostic Aid"
+http://purl.bioontology.org/ontology/STY/T131,Hazardous or Poisonous Substance
+http://purl.bioontology.org/ontology/STY/T168,Food
+http://purl.bioontology.org/ontology/STY/T171,Language
+http://purl.bioontology.org/ontology/STY/T184,Sign or Symptom
+http://purl.bioontology.org/ontology/STY/T192,Receptor
+http://purl.bioontology.org/ontology/STY/T194,Archaeon
+http://purl.bioontology.org/ontology/STY/T196,"Element, Ion, or Isotope"
+http://purl.bioontology.org/ontology/STY/T197,Inorganic Chemical
+http://purl.bioontology.org/ontology/STY/T200,Clinical Drug
+http://purl.bioontology.org/ontology/STY/T203,Drug Delivery Device
+http://purl.obolibrary.org/obo/UO_0000000,unit
+http://purl.obolibrary.org/obo/UO_0000001,length unit
+http://purl.obolibrary.org/obo/UO_0000002,mass unit
+http://purl.obolibrary.org/obo/UO_0000003,time unit
+http://purl.obolibrary.org/obo/UO_0000009,kilogram
+http://purl.obolibrary.org/obo/UO_0000015,centimeter
+http://purl.obolibrary.org/obo/UO_0000033,day
+http://purl.obolibrary.org/obo/UO_0000035,month
+http://purl.obolibrary.org/obo/UO_0000095,volume unit
+http://purl.obolibrary.org/obo/UO_0000097,cubic centimeter
+http://purl.obolibrary.org/obo/UO_0000098,milliliter
+http://purl.obolibrary.org/obo/UO_0000099,Liter
+http://purl.obolibrary.org/obo/UO_0000127,radiation unit
+http://purl.obolibrary.org/obo/UO_0000134,gray
+http://purl.obolibrary.org/obo/UO_0000187,percent
+http://purl.obolibrary.org/obo/UO_0000189,count unit
+http://purl.org/net/OCRe/statistics.owl#OCRE200021,Interval censored
+http://purl.org/net/OCRe/statistics.owl#OCRE200088,Censoring type
+http://purl.org/net/OCRe/statistics.owl#OCRE200064,Left censored
+http://purl.org/net/OCRe/statistics.owl#OCRE200105,Right censored
+http://purl.org/sig/ont/fma/fma10014,Ninth thoracic vertebra
+http://purl.org/sig/ont/fma/fma9139,Thoracic vertebra
+http://purl.org/sig/ont/fma/fma10037,Tenth thoracic vertebra
+http://purl.org/sig/ont/fma/fma10059,Eleventh thoracic vertebra
+http://purl.org/sig/ont/fma/fma10081,Twelfth thoracic vertebra
+http://purl.org/sig/ont/fma/fma10951,Inferior vena cava
+http://purl.org/sig/ont/fma/fma12513,Eyeball
+http://purl.org/sig/ont/fma/fma12513,Eye Globe
+http://purl.org/sig/ont/fma/fma12514,Right eyeball
+http://purl.org/sig/ont/fma/fma12515,Left eyeball
+http://purl.org/sig/ont/fma/fma12519,Atlas
+http://purl.org/sig/ont/fma/fma9915,Cervical vertebra
+http://purl.org/sig/ont/fma/fma12520,Axis
+http://purl.org/sig/ont/fma/fma12521,Third cervical vertebra
+http://purl.org/sig/ont/fma/fma12522,Fourth cervical vertebra
+http://purl.org/sig/ont/fma/fma12523,Fifth cervical vertebra
+http://purl.org/sig/ont/fma/fma12524,Sixth cervical vertebra
+http://purl.org/sig/ont/fma/fma12525,Seventh cervical vertebra
+http://purl.org/sig/ont/fma/fma12526,Sacral vertebra
+http://purl.org/sig/ont/fma/fma12526,Sacrum Vertebrae
+http://purl.org/sig/ont/fma/fma12784,Esophageal lymph node
+http://purl.org/sig/ont/fma/fma12784,Station 8 N2 lymph node
+http://purl.org/sig/ont/fma/fma12784,Station 8 lymph node
+http://purl.org/sig/ont/fma/fma5034,Lymph node
+http://www.cancerdata.org/roo/C100334,Lower zone
+http://purl.org/sig/ont/fma/fma13072,First lumbar vertebra
+http://purl.org/sig/ont/fma/fma9921,Lumbar vertebra
+http://purl.org/sig/ont/fma/fma13073,Second lumbar vertebra
+http://purl.org/sig/ont/fma/fma13074,Third lumbar vertebra
+http://purl.org/sig/ont/fma/fma13075,Fourth lumbar vertebra
+http://purl.org/sig/ont/fma/fma13076,Fifth lumbar vertebra
+http://purl.org/sig/ont/fma/fma13077,First sacral vertebra
+http://purl.org/sig/ont/fma/fma13078,Second sacral vertebra
+http://purl.org/sig/ont/fma/fma13079,Third sacral vertebra
+http://purl.org/sig/ont/fma/fma13080,Fourth sacral vertebra
+http://purl.org/sig/ont/fma/fma13081,Fifth sacral vertebra
+http://purl.org/sig/ont/fma/fma13889,Pituitary gland
+http://purl.org/sig/ont/fma/fma13889,Pituitary
+http://purl.org/sig/ont/fma/fma14192,Supraclavicular lymph node
+http://www.cancerdata.org/roo/C100290,Supraclavicular zone
+http://purl.org/sig/ont/fma/fma14543,Colon
+http://purl.org/sig/ont/fma/fma14544,Rectum
+http://purl.org/sig/ont/fma/fma14626,Wall of rectum
+http://purl.org/sig/ont/fma/fma14626,Rectal Wall
+http://purl.org/sig/ont/fma/fma15703,Anal canal
+http://purl.org/sig/ont/fma/fma15710,Internal anal sphincter
+http://www.owl-ontologies.com/Ontology1415135201.owl#RID165,Anal sphincter
+http://purl.org/sig/ont/fma/fma15900,Urinary bladder
+http://purl.org/sig/ont/fma/fma15902,Wall of urinary bladder
+http://purl.org/sig/ont/fma/fma16202,Sacrum
+http://purl.org/sig/ont/fma/fma16580,Bony pelvis
+http://purl.org/sig/ont/fma/fma16950,Pubic symphysis
+http://purl.org/sig/ont/fma/fma17558,Uterus
+http://purl.org/sig/ont/fma/fma17740,Cervix of uterus
+http://purl.org/sig/ont/fma/fma19386,Seminal vesicle
+http://purl.org/sig/ont/fma/fma19387,Right seminal vesicle
+http://purl.org/sig/ont/fma/fma19388,Left seminal vesicle
+http://purl.org/sig/ont/fma/fma19614,Bulb of penis
+http://purl.org/sig/ont/fma/fma19614,Penile Bulb
+http://purl.org/sig/ont/fma/fma19667,Urethra
+http://purl.org/sig/ont/fma/fma19949,Vagina
+http://purl.org/sig/ont/fma/fma20462,Vulva
+http://purl.org/sig/ont/fma/fma20484,Parametrium of body of uterus
+http://purl.org/sig/ont/fma/fma21930,External anal sphincter
+http://purl.org/sig/ont/fma/fma232719,Left supraclavicular lymph node
+http://purl.org/sig/ont/fma/fma232721,Right supraclavicular lymph node
+http://purl.org/sig/ont/fma/fma24474,Right femur
+http://purl.org/sig/ont/fma/fma9611,Femur
+http://purl.org/sig/ont/fma/fma24475,Left femur
+http://purl.org/sig/ont/fma/fma25912,Glenohumeral joint
+http://purl.org/sig/ont/fma/fma25912,Glenohumeral Joint
+http://purl.org/sig/ont/fma/fma25927,Right glenohumeral joint
+http://purl.org/sig/ont/fma/fma25929,Left glenohumeral joint
+http://purl.org/sig/ont/fma/fma26660,Bronchial tree
+http://purl.org/sig/ont/fma/fma26661,Right bronchial tree
+http://purl.org/sig/ont/fma/fma26662,Left bronchial tree
+http://purl.org/sig/ont/fma/fma275020,Hippocampus
+http://purl.org/sig/ont/fma/fma275022,Right hippocampus
+http://purl.org/sig/ont/fma/fma275024,Left hippocampus
+http://purl.org/sig/ont/fma/fma276813,Aortopulmonary lymph node
+http://purl.org/sig/ont/fma/fma276813,Station 5 N2 lymph node
+http://purl.org/sig/ont/fma/fma276813,Station 5 lymph node
+http://www.cancerdata.org/roo/C100316,AP zone
+http://purl.org/sig/ont/fma/fma276820,Para-aortic thoracic lymph node
+http://purl.org/sig/ont/fma/fma276820,Station 6 N2 lymph node
+http://purl.org/sig/ont/fma/fma276820,Station 6 lymph node
+http://purl.org/sig/ont/fma/fma276828,Interlobar lymph node
+http://purl.org/sig/ont/fma/fma276828,Station 11 N1 lymph node
+http://purl.org/sig/ont/fma/fma276828,Station 11 lymph node
+http://www.cancerdata.org/roo/C100336,Hilar/interlobar zone
+http://purl.org/sig/ont/fma/fma276849,Lobar lymph node
+http://purl.org/sig/ont/fma/fma276849,Station 12 N1 lymph node
+http://purl.org/sig/ont/fma/fma276849,Station 12 lymph node
+http://www.cancerdata.org/roo/C100339,Peripheral zone
+http://purl.org/sig/ont/fma/fma276855,Segmental lymph node
+http://purl.org/sig/ont/fma/fma276855,Station 13 N1 lymph node
+http://purl.org/sig/ont/fma/fma276855,Station 13 lymph node
+http://purl.org/sig/ont/fma/fma276861,Subsegmental lymph node
+http://purl.org/sig/ont/fma/fma276861,Station 14 N1 lymph node
+http://purl.org/sig/ont/fma/fma276861,Station 14 lymph node
+http://purl.org/sig/ont/fma/fma276867,Lymph node of inferior pulmonary ligament
+http://purl.org/sig/ont/fma/fma276867,Station 9 N2 lymph node
+http://purl.org/sig/ont/fma/fma276867,Station 9 lymph node
+http://purl.org/sig/ont/fma/fma276897,Prevertebral lymph node
+http://purl.org/sig/ont/fma/fma276897,Station 3P N2 lymph node
+http://purl.org/sig/ont/fma/fma276897,Station 3P lymph node
+http://www.cancerdata.org/roo/C100322,Upper zone
+http://purl.org/sig/ont/fma/fma276907,Pre-vascular lymph node
+http://purl.org/sig/ont/fma/fma276907,Station 3A N2 lymph node
+http://purl.org/sig/ont/fma/fma276907,Station 3A lymph node
+http://purl.org/sig/ont/fma/fma276928,Highest mediastinal lymph node
+http://purl.org/sig/ont/fma/fma276928,Station 1 N2 lymph node
+http://purl.org/sig/ont/fma/fma276928,Station 1 lymph node
+http://purl.org/sig/ont/fma/fma276936,Right upper paratracheal lymph node
+http://purl.org/sig/ont/fma/fma276936,Right station 2 N2 lymph node
+http://purl.org/sig/ont/fma/fma276936,Right station 2 lymph node
+http://purl.org/sig/ont/fma/fma276938,Left upper paratracheal lymph node
+http://purl.org/sig/ont/fma/fma276938,Left station 2 N2 lymph node
+http://purl.org/sig/ont/fma/fma276938,Left station 2 lymph node
+http://purl.org/sig/ont/fma/fma321496,Right breast
+http://purl.org/sig/ont/fma/fma9601,Breast
+http://purl.org/sig/ont/fma/fma321497,Left breast
+http://purl.org/sig/ont/fma/fma323954,Mesorectal lymph node group
+http://purl.org/sig/ont/fma/fma70776,Lymph node group
+http://purl.org/sig/ont/fma/fma35178,Hip joint
+http://purl.org/sig/ont/fma/fma35178,Femoral Joint
+http://purl.org/sig/ont/fma/fma35179,Right hip joint
+http://purl.org/sig/ont/fma/fma35180,Left hip joint
+http://purl.org/sig/ont/fma/fma3734,Aorta
+http://purl.org/sig/ont/fma/fma3932,Brachiocephalic artery
+http://purl.org/sig/ont/fma/fma3932,Brachiocephalic Artery
+http://purl.org/sig/ont/fma/fma3939,Common carotid artery
+http://purl.org/sig/ont/fma/fma3941,Right common carotid artery
+http://purl.org/sig/ont/fma/fma3951,Subclavian artery
+http://purl.org/sig/ont/fma/fma3951,Subclavicular Artery
+http://purl.org/sig/ont/fma/fma3953,Right subclavian artery
+http://purl.org/sig/ont/fma/fma4058,Left common carotid artery
+http://purl.org/sig/ont/fma/fma45244,Right brachial nerve plexus
+http://purl.org/sig/ont/fma/fma5906,Brachial nerve plexus
+http://purl.org/sig/ont/fma/fma45245,Left brachial nerve plexus
+http://purl.org/sig/ont/fma/fma46620,Constrictor muscle of pharynx
+http://purl.org/sig/ont/fma/fma46688,Pharynx
+http://purl.org/sig/ont/fma/fma4694,Left subclavian artery
+http://purl.org/sig/ont/fma/fma4720,Superior vena cava
+http://purl.org/sig/ont/fma/fma4725,Subclavian vein
+http://purl.org/sig/ont/fma/fma4725,SubClavicular Vein
+http://purl.org/sig/ont/fma/fma4755,Right subclavian vein
+http://purl.org/sig/ont/fma/fma4763,Left subclavian vein
+http://purl.org/sig/ont/fma/fma4838,Azygos vein
+http://purl.org/sig/ont/fma/fma48996,Masseter
+http://purl.org/sig/ont/fma/fma48997,Right masseter
+http://purl.org/sig/ont/fma/fma48998,Left masseter
+http://purl.org/sig/ont/fma/fma49182,Oral cavity proper
+http://purl.org/sig/ont/fma/fma49846,Inferior hypophysial artery
+http://purl.org/sig/ont/fma/fma49847,Right inferior hypophyseal artery
+http://purl.org/sig/ont/fma/fma49848,Left inferior hypophyseal artery
+http://purl.org/sig/ont/fma/fma49849,Superior hypophysial artery
+http://purl.org/sig/ont/fma/fma49850,Right superior hypophyseal artery
+http://purl.org/sig/ont/fma/fma49851,Left superior hypophyseal artery
+http://purl.org/sig/ont/fma/fma49893,Coronary artery
+http://purl.org/sig/ont/fma/fma49908,Superior pulmonary vein
+http://purl.org/sig/ont/fma/fma66643,Pulmonary vein
+http://purl.org/sig/ont/fma/fma49910,Inferior pulmonary vein
+http://purl.org/sig/ont/fma/fma49911,Right inferior pulmonary vein
+http://purl.org/sig/ont/fma/fma49913,Left inferior pulmonary vein
+http://purl.org/sig/ont/fma/fma49914,Right superior pulmonary vein
+http://purl.org/sig/ont/fma/fma49916,Left superior pulmonary vein
+http://purl.org/sig/ont/fma/fma50039,Right coronary artery
+http://purl.org/sig/ont/fma/fma50040,Left coronary artery
+http://purl.org/sig/ont/fma/fma50801,Brain
+http://purl.org/sig/ont/fma/fma50863,Optic nerve
+http://purl.org/sig/ont/fma/fma50864,Oculomotor nerve
+http://purl.org/sig/ont/fma/fma5865,Cranial nerve
+http://purl.org/sig/ont/fma/fma50865,Trochlear nerve
+http://purl.org/sig/ont/fma/fma50866,Trigeminal nerve
+http://purl.org/sig/ont/fma/fma50867,Abducens nerve
+http://purl.org/sig/ont/fma/fma50868,Facial nerve
+http://purl.org/sig/ont/fma/fma50868,Seventh Cranial Nerve
+http://purl.org/sig/ont/fma/fma50869,Vestibulocochlear nerve
+http://purl.org/sig/ont/fma/fma50869,Eighth Cranial Nerve
+http://purl.org/sig/ont/fma/fma50870,Glossopharyngeal nerve
+http://purl.org/sig/ont/fma/fma50871,Hypoglossal nerve
+http://purl.org/sig/ont/fma/fma50872,Right pulmonary artery
+http://purl.org/sig/ont/fma/fma66326,Pulmonary artery
+http://purl.org/sig/ont/fma/fma50873,Left pulmonary artery
+http://purl.org/sig/ont/fma/fma50875,Right optic nerve
+http://purl.org/sig/ont/fma/fma50878,Left optic nerve
+http://purl.org/sig/ont/fma/fma50888,Right facial nerve
+http://purl.org/sig/ont/fma/fma50889,Left facial nerve
+http://purl.org/sig/ont/fma/fma50890,Right vestibulocochlear nerve
+http://purl.org/sig/ont/fma/fma50891,Left vestibulocochlear nerve
+http://purl.org/sig/ont/fma/fma52590,Cauda equina
+http://purl.org/sig/ont/fma/fma52748,Mandible
+http://purl.org/sig/ont/fma/fma52781,External ear
+http://purl.org/sig/ont/fma/fma53643,Right external ear
+http://purl.org/sig/ont/fma/fma53644,Left external ear
+http://purl.org/sig/ont/fma/fma54448,Eye
+http://purl.org/sig/ont/fma/fma54449,Right eye
+http://purl.org/sig/ont/fma/fma54450,Left eye
+http://purl.org/sig/ont/fma/fma54640,Tongue
+http://purl.org/sig/ont/fma/fma54645,Posterior part of tongue
+http://purl.org/sig/ont/fma/fma54645,Base of tongue
+http://purl.org/sig/ont/fma/fma54832,Temporomandibular joint
+http://purl.org/sig/ont/fma/fma54832,Temperomandibular Joint
+http://purl.org/sig/ont/fma/fma54833,Right temporomandibular joint
+http://purl.org/sig/ont/fma/fma54834,Left temporomandibular joint
+http://purl.org/sig/ont/fma/fma55093,Submandibular gland
+http://purl.org/sig/ont/fma/fma55097,Larynx
+http://purl.org/sig/ont/fma/fma55414,Glottis
+http://purl.org/sig/ont/fma/fma56513,Middle ear
+http://purl.org/sig/ont/fma/fma56514,Right middle ear
+http://purl.org/sig/ont/fma/fma56515,Left middle ear
+http://purl.org/sig/ont/fma/fma5731,Vagus nerve
+http://purl.org/sig/ont/fma/fma58238,Cornea
+http://purl.org/sig/ont/fma/fma58239,Right cornea
+http://purl.org/sig/ont/fma/fma58240,Left cornea
+http://purl.org/sig/ont/fma/fma58241,Lens
+http://purl.org/sig/ont/fma/fma58241,Eye Lens
+http://purl.org/sig/ont/fma/fma58242,Right lens
+http://purl.org/sig/ont/fma/fma58243,Left lens
+http://purl.org/sig/ont/fma/fma58301,Retina
+http://purl.org/sig/ont/fma/fma58302,Right retina
+http://purl.org/sig/ont/fma/fma58303,Left retina
+http://purl.org/sig/ont/fma/fma59101,Lacrimal gland
+http://purl.org/sig/ont/fma/fma59102,Right lacrimal gland
+http://purl.org/sig/ont/fma/fma59103,Left lacrimal gland
+http://purl.org/sig/ont/fma/fma5960,Right superior tracheobronchial lymph node
+http://purl.org/sig/ont/fma/fma5960,Right station 4 N2 lymph node
+http://purl.org/sig/ont/fma/fma5960,Right station 4 lymph node
+http://purl.org/sig/ont/fma/fma5961,Left superior tracheobronchial lymph node
+http://purl.org/sig/ont/fma/fma5961,Left station 4 N2 lymph node
+http://purl.org/sig/ont/fma/fma5961,Left station 4 lymph node
+http://purl.org/sig/ont/fma/fma5962,Inferior tracheobronchial lymph node
+http://purl.org/sig/ont/fma/fma5962,Station 7 N2 lymph node
+http://purl.org/sig/ont/fma/fma5962,Station 7 lymph node
+http://www.cancerdata.org/roo/C100333,Subcarinal zone
+http://purl.org/sig/ont/fma/fma5965,Bronchopulmonary lymph node
+http://purl.org/sig/ont/fma/fma5965,Station 10 N1 lymph node
+http://purl.org/sig/ont/fma/fma5965,Station 10 lymph node
+http://purl.org/sig/ont/fma/fma59790,Parotid gland
+http://purl.org/sig/ont/fma/fma59790,Parotid
+http://purl.org/sig/ont/fma/fma59797,Right parotid gland
+http://purl.org/sig/ont/fma/fma59798,Left parotid gland
+http://purl.org/sig/ont/fma/fma59802,Right submandibular gland
+http://purl.org/sig/ont/fma/fma59803,Left submandibular gland
+http://purl.org/sig/ont/fma/fma59816,Lip
+http://purl.org/sig/ont/fma/fma60201,Cochlea
+http://purl.org/sig/ont/fma/fma60202,Right cochlea
+http://purl.org/sig/ont/fma/fma60203,Left cochlea
+http://purl.org/sig/ont/fma/fma61817,Cerebral hemisphere
+http://purl.org/sig/ont/fma/fma61817,Cerebrum
+http://purl.org/sig/ont/fma/fma61819,Left cerebral hemisphere
+http://purl.org/sig/ont/fma/fma61824,Frontal lobe
+http://purl.org/sig/ont/fma/fma61825,Temporal lobe
+http://purl.org/sig/ont/fma/fma61826,Parietal lobe
+http://purl.org/sig/ont/fma/fma62008,Hypothalamus
+http://purl.org/sig/ont/fma/fma62045,Optic chiasm
+http://purl.org/sig/ont/fma/fma63183,Blood vessel
+http://purl.org/sig/ont/fma/fma67292,Right cerebral hemisphere
+http://purl.org/sig/ont/fma/fma67325,Occipital lobe
+http://purl.org/sig/ont/fma/fma67944,Cerebellum
+http://purl.org/sig/ont/fma/fma7088,Heart
+http://purl.org/sig/ont/fma/fma7096,Right atrium
+http://purl.org/sig/ont/fma/fma7099,Cardiac atrium
+http://purl.org/sig/ont/fma/fma7097,Left atrium
+http://purl.org/sig/ont/fma/fma7098,Right ventricle
+http://purl.org/sig/ont/fma/fma7100,Cardiac ventricle
+http://purl.org/sig/ont/fma/fma7101,Left ventricle
+http://purl.org/sig/ont/fma/fma7131,Esophagus
+http://purl.org/sig/ont/fma/fma7148,Stomach
+http://purl.org/sig/ont/fma/fma7163,Skin
+http://purl.org/sig/ont/fma/fma7195,Lung
+http://purl.org/sig/ont/fma/fma7196,Spleen
+http://purl.org/sig/ont/fma/fma7197,Liver
+http://purl.org/sig/ont/fma/fma7198,Pancreas
+http://purl.org/sig/ont/fma/fma7200,Small intestine
+http://purl.org/sig/ont/fma/fma7200,Small Bowel
+http://purl.org/sig/ont/fma/fma7201,Large intestine
+http://purl.org/sig/ont/fma/fma7201,Large Bowel
+http://purl.org/sig/ont/fma/fma7203,Kidney
+http://purl.org/sig/ont/fma/fma7204,Right kidney
+http://purl.org/sig/ont/fma/fma7205,Left kidney
+http://purl.org/sig/ont/fma/fma7206,Duodenum
+http://purl.org/sig/ont/fma/fma7209,Ovary
+http://purl.org/sig/ont/fma/fma7210,Testis
+http://purl.org/sig/ont/fma/fma7211,Right testis
+http://purl.org/sig/ont/fma/fma7212,Left testis
+http://purl.org/sig/ont/fma/fma7213,Right ovary
+http://purl.org/sig/ont/fma/fma7214,Left ovary
+http://purl.org/sig/ont/fma/fma72969,Right frontal lobe
+http://purl.org/sig/ont/fma/fma72970,Left frontal lobe
+http://purl.org/sig/ont/fma/fma72971,Right temporal lobe
+http://purl.org/sig/ont/fma/fma72972,Left temporal lobe
+http://purl.org/sig/ont/fma/fma72973,Right parietal lobe
+http://purl.org/sig/ont/fma/fma72974,Left parietal lobe
+http://purl.org/sig/ont/fma/fma72975,Right occipital lobe
+http://purl.org/sig/ont/fma/fma72976,Left occipital lobe
+http://purl.org/sig/ont/fma/fma7309,Right lung
+http://purl.org/sig/ont/fma/fma7310,Left lung
+http://purl.org/sig/ont/fma/fma7330,Pulmonary hilum
+http://purl.org/sig/ont/fma/fma7333,Upper lobe of right lung
+http://purl.org/sig/ont/fma/fma7334,Upper lobe of lung
+http://purl.org/sig/ont/fma/fma7335,Lower lobe of lung
+http://purl.org/sig/ont/fma/fma7337,Lower lobe of right lung
+http://purl.org/sig/ont/fma/fma7370,Upper lobe of left lung
+http://www.cancerdata.org/roo/C100388,Both Lobes of the Left Lung
+http://purl.org/sig/ont/fma/fma7371,Lower lobe of left lung
+http://purl.org/sig/ont/fma/fma7383,Middle lobe of right lung
+http://purl.org/sig/ont/fma/fma7394,Trachea
+http://purl.org/sig/ont/fma/fma7395,Right main bronchus
+http://purl.org/sig/ont/fma/fma7405,Main bronchus
+http://purl.org/sig/ont/fma/fma7396,Left main bronchus
+http://purl.org/sig/ont/fma/fma7433,Lingula of left lung
+http://purl.org/sig/ont/fma/fma7456,Right pulmonary hilum
+http://purl.org/sig/ont/fma/fma7465,Carina of trachea
+http://purl.org/sig/ont/fma/fma7480,Rib cage
+http://purl.org/sig/ont/fma/fma7574,Rib
+http://purl.org/sig/ont/fma/fma7592,True rib
+http://purl.org/sig/ont/fma/fma7593,Typical rib
+http://purl.org/sig/ont/fma/fma7594,False rib
+http://purl.org/sig/ont/fma/fma7595,Floating rib
+http://purl.org/sig/ont/fma/fma7596,Atypical rib
+http://purl.org/sig/ont/fma/fma7597,First rib
+http://purl.org/sig/ont/fma/fma7620,Second rib
+http://purl.org/sig/ont/fma/fma7638,Third rib
+http://purl.org/sig/ont/fma/fma7647,Spinal cord
+http://purl.org/sig/ont/fma/fma7749,Fourth rib
+http://purl.org/sig/ont/fma/fma7776,Fifth rib
+http://purl.org/sig/ont/fma/fma7830,Seventh rib
+http://purl.org/sig/ont/fma/fma7857,Right first rib
+http://purl.org/sig/ont/fma/fma7882,Right second rib
+http://purl.org/sig/ont/fma/fma7909,Right third rib
+http://purl.org/sig/ont/fma/fma7957,Right fourth rib
+http://purl.org/sig/ont/fma/fma7987,Left first rib
+http://purl.org/sig/ont/fma/fma79876,Brainstem
+http://purl.org/sig/ont/fma/fma8012,Left second rib
+http://purl.org/sig/ont/fma/fma8039,Left third rib
+http://purl.org/sig/ont/fma/fma8066,Right fifth rib
+http://purl.org/sig/ont/fma/fma8093,Left fifth rib
+http://purl.org/sig/ont/fma/fma8120,Eighth rib
+http://purl.org/sig/ont/fma/fma8147,Sixth rib
+http://purl.org/sig/ont/fma/fma8148,Left fourth rib
+http://purl.org/sig/ont/fma/fma8175,Right sixth rib
+http://purl.org/sig/ont/fma/fma8202,Left sixth rib
+http://purl.org/sig/ont/fma/fma8229,Right seventh rib
+http://purl.org/sig/ont/fma/fma8256,Left seventh rib
+http://purl.org/sig/ont/fma/fma8283,Right eighth rib
+http://purl.org/sig/ont/fma/fma8310,Left eighth rib
+http://purl.org/sig/ont/fma/fma8337,Ninth rib
+http://purl.org/sig/ont/fma/fma8364,Right ninth rib
+http://purl.org/sig/ont/fma/fma8391,Left ninth rib
+http://purl.org/sig/ont/fma/fma8418,Tenth rib
+http://purl.org/sig/ont/fma/fma8445,Right tenth rib
+http://purl.org/sig/ont/fma/fma8472,Left tenth rib
+http://purl.org/sig/ont/fma/fma8499,Eleventh rib
+http://purl.org/sig/ont/fma/fma8515,Twelfth rib
+http://purl.org/sig/ont/fma/fma8531,Right eleventh rib
+http://purl.org/sig/ont/fma/fma8532,Left eleventh rib
+http://purl.org/sig/ont/fma/fma8533,Right twelfth rib
+http://purl.org/sig/ont/fma/fma8534,Left twelfth rib
+http://purl.org/sig/ont/fma/fma9165,First thoracic vertebra
+http://purl.org/sig/ont/fma/fma9187,Second thoracic vertebra
+http://purl.org/sig/ont/fma/fma9209,Third thoracic vertebra
+http://purl.org/sig/ont/fma/fma9248,Fourth thoracic vertebra
+http://purl.org/sig/ont/fma/fma9579,Perineum
+http://purl.org/sig/ont/fma/fma9597,Salivary gland
+http://purl.org/sig/ont/fma/fma9600,Prostate
+http://purl.org/sig/ont/fma/fma9603,Thyroid gland
+http://purl.org/sig/ont/fma/fma9603,Thyroid
+http://purl.org/sig/ont/fma/fma9707,Penis
+http://purl.org/sig/ont/fma/fma9751,Left pulmonary hilum
+http://purl.org/sig/ont/fma/fma9826,Mediastinum
+http://purl.org/sig/ont/fma/fma9869,Pericardium
+http://purl.org/sig/ont/fma/fma9922,Fifth thoracic vertebra
+http://purl.org/sig/ont/fma/fma9945,Sixth thoracic vertebra
+http://purl.org/sig/ont/fma/fma9968,Seventh thoracic vertebra
+http://purl.org/sig/ont/fma/fma9991,Eighth thoracic vertebra
+http://semantic-dicom.org/dcm#InformationEntity,InformationEntity
+http://www.cancerdata.org/roo/C100321,DICOM Functional Concept
+http://semantic-dicom.org/dcm#InformationObjectDefinition,InformationObjectDefinition
+http://semantic-dicom.org/dcm#Patient,Patient
+http://semantic-dicom.org/dcm#RTDose,RTDose
+http://semantic-dicom.org/dcm#RTImage,RTImage
+http://semantic-dicom.org/dcm#RTPlan,RTPlan
+http://semantic-dicom.org/dcm#RTStructureSet,RTStructureSet
+http://semantic-dicom.org/dcm#Series,Series
+http://semantic-dicom.org/dcm#Study,Study
+http://www.cancerdata.org/roo/C000000,Two or More Years Survival
+http://www.cancerdata.org/roo/C100014,Survival
+http://www.cancerdata.org/roo/C000001,Less Than Two Years Survival
+http://www.cancerdata.org/roo/C100001,Adult comorbidity evaluation-27
+http://www.cancerdata.org/roo/C100002,'Age at Diagnosis'
+http://www.cancerdata.org/roo/C100002,Age at Diagnosis
+http://www.cancerdata.org/roo/C100003,Age at Start RT
+http://www.cancerdata.org/roo/C100006,GTV (ROI)
+http://www.cancerdata.org/roo/C100068,Target Volume (ROI)
+http://www.cancerdata.org/roo/C100007,PTV (ROI)
+http://www.cancerdata.org/roo/C100614,Planning Target Volume - Primary Tumor
+http://www.cancerdata.org/roo/C100009,SUVmax
+http://www.cancerdata.org/roo/C100010,SUVmean
+http://www.cancerdata.org/roo/C100011,Delivered Radiotherapy Total Treatment Dose
+http://www.cancerdata.org/roo/C100012,Delivered Radiation Dose
+http://www.cancerdata.org/roo/C100352,Radiotherapy Total Treatment Dose
+http://www.cancerdata.org/roo/C100352,TTD
+http://www.cancerdata.org/roo/C100013,Prescribed Radiation Dose
+http://www.cancerdata.org/roo/C100043,Sequential Chemoradiotherapy
+http://www.cancerdata.org/roo/C100044,Living with partner
+http://www.cancerdata.org/roo/C100045,Cause of death related to cancer
+http://www.cancerdata.org/roo/C100048,Cause of death not related to cancer
+http://www.cancerdata.org/roo/C100046,Cause of death directly related to cancer
+http://www.cancerdata.org/roo/C100047,Cause of death indirectly related to cancer
+http://www.cancerdata.org/roo/C100049,Positive Lymph Node Stations
+http://www.cancerdata.org/roo/C100050,Number of Images
+http://www.cancerdata.org/roo/C100052,AJCC 7th Edition
+http://www.cancerdata.org/roo/C100053,AJCC 6th Edition
+http://www.cancerdata.org/roo/C100054,Volume of the Primary Tumor
+http://www.cancerdata.org/roo/C100055,Volume of the Positive Macroscopic Nodes
+http://www.cancerdata.org/roo/C100056,Radiotherapy Fraction
+http://www.cancerdata.org/roo/C100057,Prescribed Radiotherapy Total Treatment Dose
+http://www.cancerdata.org/roo/C100058,First Radiotherapy fraction
+http://www.cancerdata.org/roo/C100059,Last Radiotherapy fraction
+http://www.cancerdata.org/roo/C100062,Living alone
+http://www.cancerdata.org/roo/C100063,Survival Time Since First Treatment
+http://www.cancerdata.org/roo/C100064,Multiple Lobes of the Lung
+http://www.cancerdata.org/roo/C100065,Non-Thoracic Secondary Neoplasm
+http://www.cancerdata.org/roo/C100066,Thoracic Secondary Neoplasm
+http://www.cancerdata.org/roo/C100067,Radiation Oncology Region of Interest
+http://www.cancerdata.org/roo/C100609,Organ at Risk
+http://www.cancerdata.org/roo/C100070,Concurrent Chemoradiotherapy
+http://www.cancerdata.org/roo/C100070,Concomitant Chemoradiotheraoy
+http://www.cancerdata.org/roo/C100071,Radiotherapy Margin
+http://www.cancerdata.org/roo/C100072,Nonuniform Margin
+http://www.cancerdata.org/roo/C100073,Uniform Margin
+http://www.cancerdata.org/roo/C100074,Tumor Length
+http://www.cancerdata.org/roo/C100075,AnalCanal (ROI)
+http://www.cancerdata.org/roo/C100078,Kidney_L (ROI)
+http://www.cancerdata.org/roo/C100079,Kidney_R (ROI)
+http://www.cancerdata.org/roo/C100080,MainBronchus_L (ROI)
+http://www.cancerdata.org/roo/C100084,A_Pulmonary (ROI)
+http://www.cancerdata.org/roo/C100085,A_Carotid (ROI)
+http://www.cancerdata.org/roo/C100086,A_Brachiocephali (ROI)
+http://www.cancerdata.org/roo/C100087,A_Coronary (ROI)
+http://www.cancerdata.org/roo/C100088,A_Subclavicular (ROI)
+http://www.cancerdata.org/roo/C100089,A_HypophysealSuperior (ROI)
+http://www.cancerdata.org/roo/C100090,Aorta (ROI)
+http://www.cancerdata.org/roo/C100091,AnalSphincter (ROI)
+http://www.cancerdata.org/roo/C100092,Atrium (ROI)
+http://www.cancerdata.org/roo/C100093,Bladder (ROI)
+http://www.cancerdata.org/roo/C100094,BladderWall (ROI)
+http://www.cancerdata.org/roo/C100095,BrachialPlexus (ROI)
+http://www.cancerdata.org/roo/C100096,Brain (ROI)
+http://www.cancerdata.org/roo/C100097,BrainStem (ROI)
+http://www.cancerdata.org/roo/C100098,Breast (ROI)
+http://www.cancerdata.org/roo/C100099,BronchialTree (ROI)
+http://www.cancerdata.org/roo/C100100,BaseOfTongue (ROI)
+http://www.cancerdata.org/roo/C100101,Carina (ROI)
+http://www.cancerdata.org/roo/C100102,CaudaEquina (ROI)
+http://www.cancerdata.org/roo/C100103,Cerebellum (ROI)
+http://www.cancerdata.org/roo/C100104,Cerebrum (ROI)
+http://www.cancerdata.org/roo/C100105,Chiasm (ROI)
+http://www.cancerdata.org/roo/C100106,CN_VII (ROI)
+http://www.cancerdata.org/roo/C100107,CN_VIII (ROI)
+http://www.cancerdata.org/roo/C100108,Cervix (ROI)
+http://www.cancerdata.org/roo/C100109,Cochlea (ROI)
+http://www.cancerdata.org/roo/C100110,Colon (ROI)
+http://www.cancerdata.org/roo/C100111,ConstrMuscle (ROI)
+http://www.cancerdata.org/roo/C100112,Cornea (ROI)
+http://www.cancerdata.org/roo/C100113,Duodenum (ROI)
+http://www.cancerdata.org/roo/C100114,Ear_Middle (ROI)
+http://www.cancerdata.org/roo/C100115,Ear_External (ROI)
+http://www.cancerdata.org/roo/C100116,Esophagus (ROI)
+http://www.cancerdata.org/roo/C100117,Esophagus_Upper (ROI)
+http://www.cancerdata.org/roo/C100118,Esophagus_Lower (ROI)
+http://www.cancerdata.org/roo/C100119,Esophagus_Middle (ROI)
+http://www.cancerdata.org/roo/C100120,External (ROI)
+http://www.cancerdata.org/roo/C100121,Eye (ROI)
+http://www.cancerdata.org/roo/C100122,Femur (ROI)
+http://www.cancerdata.org/roo/C100123,FemoralJoint (ROI)
+http://www.cancerdata.org/roo/C100124,FrontalLobe (ROI)
+http://www.cancerdata.org/roo/C100125,GHJoint (ROI)
+http://www.cancerdata.org/roo/C100126,Globe (ROI)
+http://www.cancerdata.org/roo/C100127,Glottis (ROI)
+http://www.cancerdata.org/roo/C100128,GreatVessel (ROI)
+http://www.cancerdata.org/roo/C100129,Heart (ROI)
+http://www.cancerdata.org/roo/C100130,Hippocampus (ROI)
+http://www.cancerdata.org/roo/C100131,Hypothalamus (ROI)
+http://www.cancerdata.org/roo/C100132,Kidney (ROI)
+http://www.cancerdata.org/roo/C100133,LargeBowel (ROI)
+http://www.cancerdata.org/roo/C100134,Larynx (ROI)
+http://www.cancerdata.org/roo/C100135,LacrimalGland (ROI)
+http://www.cancerdata.org/roo/C100136,Lens (ROI)
+http://www.cancerdata.org/roo/C100137,Lips (ROI)
+http://www.cancerdata.org/roo/C100138,Liver (ROI)
+http://www.cancerdata.org/roo/C100139,Lung (ROI)
+http://www.cancerdata.org/roo/C100140,Mandible (ROI)
+http://www.cancerdata.org/roo/C100141,MassMuscle (ROI)
+http://www.cancerdata.org/roo/C100142,Mediastinum (ROI)
+http://www.cancerdata.org/roo/C100143,MainBronchus (ROI)
+http://www.cancerdata.org/roo/C100144,OccipitalLobe (ROI)
+http://www.cancerdata.org/roo/C100145,OpticNerve (ROI)
+http://www.cancerdata.org/roo/C100146,OralCavity (ROI)
+http://www.cancerdata.org/roo/C100147,Ovary (ROI)
+http://www.cancerdata.org/roo/C100148,Parametrium (ROI)
+http://www.cancerdata.org/roo/C100149,ParietalLobe (ROI)
+http://www.cancerdata.org/roo/C100150,Pancreas (ROI)
+http://www.cancerdata.org/roo/C100151,Parotid (ROI)
+http://www.cancerdata.org/roo/C100152,PelvicBones (ROI)
+http://www.cancerdata.org/roo/C100153,PenileBulb (ROI)
+http://www.cancerdata.org/roo/C100154,Penis (ROI)
+http://www.cancerdata.org/roo/C100155,Perineum (ROI)
+http://www.cancerdata.org/roo/C100156,Pericardium (ROI)
+http://www.cancerdata.org/roo/C100157,Pharynx (ROI)
+http://www.cancerdata.org/roo/C100158,PharynxConst (ROI)
+http://www.cancerdata.org/roo/C100159,Pituitary (ROI)
+http://www.cancerdata.org/roo/C100160,Prostate (ROI)
+http://www.cancerdata.org/roo/C100161,PubicSymphysis (ROI)
+http://www.cancerdata.org/roo/C100162,Rectum (ROI)
+http://www.cancerdata.org/roo/C100163,RectalWall (ROI)
+http://www.cancerdata.org/roo/C100164,Retina (ROI)
+http://www.cancerdata.org/roo/C100165,Rib (ROI)
+http://www.cancerdata.org/roo/C100166,Sacrum (ROI)
+http://www.cancerdata.org/roo/C100167,SalivaryGland (ROI)
+http://www.cancerdata.org/roo/C100168,SeminalVesicle (ROI)
+http://www.cancerdata.org/roo/C100169,SmallBowel (ROI)
+http://www.cancerdata.org/roo/C100170,SpinalCord (ROI)
+http://www.cancerdata.org/roo/C100171,Spleen (ROI)
+http://www.cancerdata.org/roo/C100172,Stomach (ROI)
+http://www.cancerdata.org/roo/C100173,Submandibular (ROI)
+http://www.cancerdata.org/roo/C100174,Supertentorial (ROI)
+http://www.cancerdata.org/roo/C100175,TemporalLobe (ROI)
+http://www.cancerdata.org/roo/C100176,Testis (ROI)
+http://www.cancerdata.org/roo/C100177,Thyroid (ROI)
+http://www.cancerdata.org/roo/C100178,TMjoint (ROI)
+http://www.cancerdata.org/roo/C100179,Trachea (ROI)
+http://www.cancerdata.org/roo/C100180,Tongue (ROI)
+http://www.cancerdata.org/roo/C100181,Urethra (ROI)
+http://www.cancerdata.org/roo/C100182,Uterus (ROI)
+http://www.cancerdata.org/roo/C100183,V_Azygos (ROI)
+http://www.cancerdata.org/roo/C100184,V_CavaInferior (ROI)
+http://www.cancerdata.org/roo/C100185,V_CavaSuperior (ROI)
+http://www.cancerdata.org/roo/C100186,V_Pulmonary (ROI)
+http://www.cancerdata.org/roo/C100187,V_SubClav (ROI)
+http://www.cancerdata.org/roo/C100188,Vagina (ROI)
+http://www.cancerdata.org/roo/C100189,VB_Cervical (ROI)
+http://www.cancerdata.org/roo/C100190,VB_Thoracic (ROI)
+http://www.cancerdata.org/roo/C100191,VB_Lumbar (ROI)
+http://www.cancerdata.org/roo/C100192,VB_Sacrum (ROI)
+http://www.cancerdata.org/roo/C100193,Ventricle (ROI)
+http://www.cancerdata.org/roo/C100194,Vessels (ROI)
+http://www.cancerdata.org/roo/C100195,Vulva (ROI)
+http://www.cancerdata.org/roo/C100237,Living with children
+http://www.cancerdata.org/roo/C100240,Living with partner and children
+http://www.cancerdata.org/roo/C100245,Positive Mediastinal Lymph Node Stations
+http://www.cancerdata.org/roo/C100266,Lymph Node by Zone and Station
+http://www.cancerdata.org/roo/C100270,CTCAE version
+http://www.cancerdata.org/roo/C100289,CTCAE v2.0
+http://www.cancerdata.org/roo/C100294,Aortic Nodes
+http://www.cancerdata.org/roo/C100320,Superior Mediastinal Nodes
+http://www.cancerdata.org/roo/C100323,D95
+http://www.cancerdata.org/roo/C100357,Dose Volume Histogram - Dx
+http://www.cancerdata.org/roo/C100324,D98
+http://www.cancerdata.org/roo/C100324,Dnear-min
+http://www.cancerdata.org/roo/C100325,D50
+http://www.cancerdata.org/roo/C100325,Dmedian
+http://www.cancerdata.org/roo/C100325,Median Radiation Dose
+http://www.cancerdata.org/roo/C100326,D2
+http://www.cancerdata.org/roo/C100326,Dnear-max
+http://www.cancerdata.org/roo/C100328,Local control time
+http://www.cancerdata.org/roo/C100329,Inferior Mediastinal Nodes
+http://www.cancerdata.org/roo/C100330,Distant control time
+http://www.cancerdata.org/roo/C100335,N1 nodes
+http://www.cancerdata.org/roo/C100344,Lung_L (ROI)
+http://www.cancerdata.org/roo/C100345,Lung_R (ROI)
+http://www.cancerdata.org/roo/C100346,GTVp (ROI)
+http://www.cancerdata.org/roo/C100606,Gross Tumor Volume - Primary Tumor
+http://www.cancerdata.org/roo/C100347,GTVn (ROI)
+http://www.cancerdata.org/roo/C100605,Gross Tumor Volume - Node
+http://www.cancerdata.org/roo/C100348,Overall Treatment Time - Radiotherapy
+http://www.cancerdata.org/roo/C100348,OTT
+http://www.cancerdata.org/roo/C100349,Radiation Therapy Alone
+http://www.cancerdata.org/roo/C100350,Parallel-Opposed Fields Radiation Therapy
+http://www.cancerdata.org/roo/C100351,2-Dimensional Radiation Therapy
+http://www.cancerdata.org/roo/C100353,Radiotherapy Fraction Dose
+http://www.cancerdata.org/roo/C100354,Number of Radiotherapy Fractions
+http://www.cancerdata.org/roo/C100355,Number of Radiotherapy Fractions Per Day
+http://www.cancerdata.org/roo/C100356,Number of Radiotherapy Fractions Per Treatment
+http://www.cancerdata.org/roo/C100360,Radiation Dose From Dose Volume Histogram
+http://www.cancerdata.org/roo/C100358,Dose Volume Histogram - Vx
+http://www.cancerdata.org/roo/C100359,V20 of Lung
+http://www.cancerdata.org/roo/C100361,Dmean
+http://www.cancerdata.org/roo/C100361,Mean Radiation Dose
+http://www.cancerdata.org/roo/C100362,Mean Lung Dose
+http://www.cancerdata.org/roo/C100362,MLD
+http://www.cancerdata.org/roo/C100363,Mean Esophagus Dose
+http://www.cancerdata.org/roo/C100365,Maximum Esophagus Dose
+http://www.cancerdata.org/roo/C100366,D0
+http://www.cancerdata.org/roo/C100366,Dmax
+http://www.cancerdata.org/roo/C100366,Maximum Radiation Dose
+http://www.cancerdata.org/roo/C100367,FEV1 with Medication
+http://www.cancerdata.org/roo/C100368,Percent Predicted Diffusion Capacity of the Lung for Carbon Monoxide
+http://www.cancerdata.org/roo/C100369,Acute Radiation Therapy Adverse Event
+http://www.cancerdata.org/roo/C100369,Early Radiation Therapy Adverse Event
+http://www.cancerdata.org/roo/C100370,Adverse Event by Time of Onset
+http://www.cancerdata.org/roo/C100371,Late Radiation Therapy Adverse Event
+http://www.cancerdata.org/roo/C100372,Definitely Related to Cancer
+http://www.cancerdata.org/roo/C100373,Unrelated to Cancer
+http://www.cancerdata.org/roo/C100374,Unlikely Related to Cancer
+http://www.cancerdata.org/roo/C100375,Possibly Related to Cancer
+http://www.cancerdata.org/roo/C100376,Probably Related to Cancer
+http://www.cancerdata.org/roo/C100377,Probably Related to Pre-existing Comorbidity
+http://www.cancerdata.org/roo/C100378,Possibly Related to Pre-existing Comorbidity
+http://www.cancerdata.org/roo/C100379,Definitely Related to Pre-existing Comorbidity
+http://www.cancerdata.org/roo/C100380,Conditionally Related to Pre-existing Comorbidity
+http://www.cancerdata.org/roo/C100381,Conditionally Related to Cancer
+http://www.cancerdata.org/roo/C100382,Unrelated to Pre-existing Comorbidity
+http://www.cancerdata.org/roo/C100383,Unlikely Related to Pre-existing Comorbidity
+http://www.cancerdata.org/roo/C100384,Relation to Cancer Unclassifiable
+http://www.cancerdata.org/roo/C100385,Relation to Pre-existing Comorbidity Unclassifiable
+http://www.cancerdata.org/roo/C100386,ECOG Performance Status≥2
+http://www.cancerdata.org/roo/C100387,Never or Former Smoker
+http://www.cancerdata.org/roo/C100390,Minimum of 5 Positive Lymph Node Stations
+http://www.cancerdata.org/roo/C100393,T0 or T1 Stage Finding
+http://www.cancerdata.org/roo/C100453,Medical Contraindication to Concurrent Chemoradiotherapy
+http://www.cancerdata.org/roo/C100454,Equivalent 2Gy Dose
+http://www.cancerdata.org/roo/C100454,EQD2
+http://www.cancerdata.org/roo/C100455,Minimum of 5 Positive Mediastinal Lymph Node Stations
+http://www.cancerdata.org/roo/C100456,MainBronchus_R (ROI)
+http://www.cancerdata.org/roo/C100457,A_Pulmonary_L (ROI)
+http://www.cancerdata.org/roo/C100458,A_Pulmonary_R (ROI)
+http://www.cancerdata.org/roo/C100459,A_Carotid_R (ROI)
+http://www.cancerdata.org/roo/C100460,A_Carotid_L (ROI)
+http://www.cancerdata.org/roo/C100461,A_Coronary_L (ROI)
+http://www.cancerdata.org/roo/C100462,A_Coronary_R (ROI)
+http://www.cancerdata.org/roo/C100463,A_HypophysealInferior (ROI)
+http://www.cancerdata.org/roo/C100464,A_Subclavicular_L (ROI)
+http://www.cancerdata.org/roo/C100465,A_Subclavicular_R (ROI)
+http://www.cancerdata.org/roo/C100466,A_HypophysealInferior_L (ROI)
+http://www.cancerdata.org/roo/C100467,A_HypophysealInferior_R (ROI)
+http://www.cancerdata.org/roo/C100468,A_HypophysealSuperior_L (ROI)
+http://www.cancerdata.org/roo/C100469,A_HypophysealSuperior_R (ROI)
+http://www.cancerdata.org/roo/C100470,Atrium_L (ROI)
+http://www.cancerdata.org/roo/C100471,Atrium_R (ROI)
+http://www.cancerdata.org/roo/C100472,BrachialPlexus_L (ROI)
+http://www.cancerdata.org/roo/C100473,BrachialPlexus_R (ROI)
+http://www.cancerdata.org/roo/C100474,Breast_L (ROI)
+http://www.cancerdata.org/roo/C100475,Breast_R (ROI)
+http://www.cancerdata.org/roo/C100476,BronchialTree_L (ROI)
+http://www.cancerdata.org/roo/C100477,BronchialTree_R (ROI)
+http://www.cancerdata.org/roo/C100478,Cerebrum_L (ROI)
+http://www.cancerdata.org/roo/C100479,Cerebrum_R (ROI)
+http://www.cancerdata.org/roo/C100480,CN_VII_L (ROI)
+http://www.cancerdata.org/roo/C100481,CN_VII_R (ROI)
+http://www.cancerdata.org/roo/C100482,CN_VIII_L (ROI)
+http://www.cancerdata.org/roo/C100483,CN_VIII_R (ROI)
+http://www.cancerdata.org/roo/C100484,Cochlea_L (ROI)
+http://www.cancerdata.org/roo/C100485,Cochlea_R (ROI)
+http://www.cancerdata.org/roo/C100486,Cornea_L (ROI)
+http://www.cancerdata.org/roo/C100487,Cornea_R (ROI)
+http://www.cancerdata.org/roo/C100488,Ear_External_L (ROI)
+http://www.cancerdata.org/roo/C100489,Ear_External_R (ROI)
+http://www.cancerdata.org/roo/C100490,Ear_Middle_L (ROI)
+http://www.cancerdata.org/roo/C100491,Ear_Middle_R (ROI)
+http://www.cancerdata.org/roo/C100492,Eye_L (ROI)
+http://www.cancerdata.org/roo/C100493,Eye_R (ROI)
+http://www.cancerdata.org/roo/C100494,FemoralJoint_L (ROI)
+http://www.cancerdata.org/roo/C100495,FemoralJoint_R (ROI)
+http://www.cancerdata.org/roo/C100496,Femur_L (ROI)
+http://www.cancerdata.org/roo/C100497,Femur_R (ROI)
+http://www.cancerdata.org/roo/C100498,FrontalLobe_L (ROI)
+http://www.cancerdata.org/roo/C100499,FrontalLobe_R (ROI)
+http://www.cancerdata.org/roo/C100500,GHJoint_L (ROI)
+http://www.cancerdata.org/roo/C100501,GHJoint_R (ROI)
+http://www.cancerdata.org/roo/C100502,Globe_L (ROI)
+http://www.cancerdata.org/roo/C100503,Globe_R (ROI)
+http://www.cancerdata.org/roo/C100504,Hippocampus_L (ROI)
+http://www.cancerdata.org/roo/C100505,Hippocampus_R (ROI)
+http://www.cancerdata.org/roo/C100506,MassMuscle_L (ROI)
+http://www.cancerdata.org/roo/C100507,MassMuscle_R (ROI)
+http://www.cancerdata.org/roo/C100508,OccipitalLobe_L (ROI)
+http://www.cancerdata.org/roo/C100509,OccipitalLobe_R (ROI)
+http://www.cancerdata.org/roo/C100510,OpticNerve_L (ROI)
+http://www.cancerdata.org/roo/C100511,OpticNerve_R (ROI)
+http://www.cancerdata.org/roo/C100512,Ovary_L (ROI)
+http://www.cancerdata.org/roo/C100513,Ovary_R (ROI)
+http://www.cancerdata.org/roo/C100514,ParietalLobe_L (ROI)
+http://www.cancerdata.org/roo/C100515,ParietalLobe_R (ROI)
+http://www.cancerdata.org/roo/C100516,Parotid_L (ROI)
+http://www.cancerdata.org/roo/C100517,Parotid_R (ROI)
+http://www.cancerdata.org/roo/C100519,Retina_L (ROI)
+http://www.cancerdata.org/roo/C100520,Retina_R (ROI)
+http://www.cancerdata.org/roo/C100521,Rib1_L (ROI)
+http://www.cancerdata.org/roo/C100522,Rib2_L (ROI)
+http://www.cancerdata.org/roo/C100523,Rib3_L (ROI)
+http://www.cancerdata.org/roo/C100524,Rib4_L (ROI)
+http://www.cancerdata.org/roo/C100525,Rib5_L (ROI)
+http://www.cancerdata.org/roo/C100526,Rib6_L (ROI)
+http://www.cancerdata.org/roo/C100527,Rib7_L (ROI)
+http://www.cancerdata.org/roo/C100528,Rib8_L (ROI)
+http://www.cancerdata.org/roo/C100529,Rib9_L (ROI)
+http://www.cancerdata.org/roo/C100530,Rib10_L (ROI)
+http://www.cancerdata.org/roo/C100531,Rib11_L (ROI)
+http://www.cancerdata.org/roo/C100532,Rib12_L (ROI)
+http://www.cancerdata.org/roo/C100533,Rib12_R (ROI)
+http://www.cancerdata.org/roo/C100534,Rib11_R (ROI)
+http://www.cancerdata.org/roo/C100535,Rib10_R (ROI)
+http://www.cancerdata.org/roo/C100536,Rib9_R (ROI)
+http://www.cancerdata.org/roo/C100537,Rib8_R (ROI)
+http://www.cancerdata.org/roo/C100538,Rib7_R (ROI)
+http://www.cancerdata.org/roo/C100539,Rib6_R (ROI)
+http://www.cancerdata.org/roo/C100540,Rib5_R (ROI)
+http://www.cancerdata.org/roo/C100541,Rib4_R (ROI)
+http://www.cancerdata.org/roo/C100542,Rib3_R (ROI)
+http://www.cancerdata.org/roo/C100543,Rib2_R (ROI)
+http://www.cancerdata.org/roo/C100544,Rib1_R (ROI)
+http://www.cancerdata.org/roo/C100545,SeminalVesicle_L (ROI)
+http://www.cancerdata.org/roo/C100546,SeminalVesicle_R (ROI)
+http://www.cancerdata.org/roo/C100547,Submandibular_L (ROI)
+http://www.cancerdata.org/roo/C100548,Submandibular_R (ROI)
+http://www.cancerdata.org/roo/C100549,TemporalLobe_L (ROI)
+http://www.cancerdata.org/roo/C100550,TemporalLobe_R (ROI)
+http://www.cancerdata.org/roo/C100551,Testis_L (ROI)
+http://www.cancerdata.org/roo/C100552,Testis_R (ROI)
+http://www.cancerdata.org/roo/C100553,TMjoint_L (ROI)
+http://www.cancerdata.org/roo/C100554,TMjoint_R (ROI)
+http://www.cancerdata.org/roo/C100555,V_SubClav_L (ROI)
+http://www.cancerdata.org/roo/C100556,V_SubClav_R (ROI)
+http://www.cancerdata.org/roo/C100558,VB_C1 (ROI)
+http://www.cancerdata.org/roo/C100559,VB_C2 (ROI)
+http://www.cancerdata.org/roo/C100560,VB_C3 (ROI)
+http://www.cancerdata.org/roo/C100561,VB_C4 (ROI)
+http://www.cancerdata.org/roo/C100562,VB_C5 (ROI)
+http://www.cancerdata.org/roo/C100563,VB_C6 (ROI)
+http://www.cancerdata.org/roo/C100564,VB_C7 (ROI)
+http://www.cancerdata.org/roo/C100565,VB_L1 (ROI)
+http://www.cancerdata.org/roo/C100566,VB_L2 (ROI)
+http://www.cancerdata.org/roo/C100567,VB_L3 (ROI)
+http://www.cancerdata.org/roo/C100568,VB_L4 (ROI)
+http://www.cancerdata.org/roo/C100569,VB_L5 (ROI)
+http://www.cancerdata.org/roo/C100570,VB_S1 (ROI)
+http://www.cancerdata.org/roo/C100571,VB_S2 (ROI)
+http://www.cancerdata.org/roo/C100572,VB_S3 (ROI)
+http://www.cancerdata.org/roo/C100573,VB_S4 (ROI)
+http://www.cancerdata.org/roo/C100574,VB_S5 (ROI)
+http://www.cancerdata.org/roo/C100575,VB_T1 (ROI)
+http://www.cancerdata.org/roo/C100576,VB_T2 (ROI)
+http://www.cancerdata.org/roo/C100577,VB_T3 (ROI)
+http://www.cancerdata.org/roo/C100578,VB_T4 (ROI)
+http://www.cancerdata.org/roo/C100579,VB_T5 (ROI)
+http://www.cancerdata.org/roo/C100580,VB_T6 (ROI)
+http://www.cancerdata.org/roo/C100581,VB_T7 (ROI)
+http://www.cancerdata.org/roo/C100582,VB_T8 (ROI)
+http://www.cancerdata.org/roo/C100583,VB_T9 (ROI)
+http://www.cancerdata.org/roo/C100584,VB_T10 (ROI)
+http://www.cancerdata.org/roo/C100585,VB_T11 (ROI)
+http://www.cancerdata.org/roo/C100586,VB_T12 (ROI)
+http://www.cancerdata.org/roo/C100587,Ventricle_L (ROI)
+http://www.cancerdata.org/roo/C100588,Ventricle_R (ROI)
+http://www.cancerdata.org/roo/C100589,Gross Tumor Volume - Metastasis
+http://www.cancerdata.org/roo/C100590,CTV (ROI)
+http://www.cancerdata.org/roo/C100601,Clinical Target Volume
+http://www.cancerdata.org/roo/C100601,CTV
+http://www.cancerdata.org/roo/C100591,Clinical Target Volume - Node
+http://www.cancerdata.org/roo/C100591,CTVn
+http://www.cancerdata.org/roo/C100594,Clinical Target Volume - Primary Tumor
+http://www.cancerdata.org/roo/C100595,ITV (ROI)
+http://www.cancerdata.org/roo/C100599,Internal Target Volume
+http://www.cancerdata.org/roo/C100599,ITV
+http://www.cancerdata.org/roo/C100596,PRV (ROI)
+http://www.cancerdata.org/roo/C100597,Radiation Oncology Functional Concept
+http://www.cancerdata.org/roo/C100600,Planning Target Volume
+http://www.cancerdata.org/roo/C100600,PTV
+http://www.cancerdata.org/roo/C100602,CTVn (ROI)
+http://www.cancerdata.org/roo/C100603,Clinical Target Volume - Metastasis
+http://www.cancerdata.org/roo/C100604,CTVp (ROI)
+http://www.cancerdata.org/roo/C100608,Planning Organ at Risk Volume
+http://www.cancerdata.org/roo/C100610,PTVn (ROI)
+http://www.cancerdata.org/roo/C100611,PTVp (ROI)
+http://www.cancerdata.org/roo/C100612,Planning Target Volume - Metastasis
+http://www.cancerdata.org/roo/C100613,Planning Target Volume - Node
+http://www.cancerdata.org/roo/C100615,Treated Volume
+http://www.cancerdata.org/roo/C100616,Metabolic Tumor Volume
+http://www.cancerdata.org/roo/C100620,FUMIR Regimen
+http://www.cancerdata.org/roo/C100622,Tumor Regression Grade - Dworak
+http://www.cancerdata.org/roo/C100623,Tumor Regression Grade - Mandard
+http://www.cancerdata.org/roo/C100624,TRG1 - Mandard
+http://www.cancerdata.org/roo/C100625,Complete Regression
+http://www.cancerdata.org/roo/C100626,Near Complete Regression
+http://www.cancerdata.org/roo/C100627,Moderate Regression
+http://www.cancerdata.org/roo/C100628,Minimal Regression
+http://www.cancerdata.org/roo/C100629,No Regression
+http://www.cancerdata.org/roo/C100630,TRG2 - Mandard
+http://www.cancerdata.org/roo/C100631,TRG3 - Mandard
+http://www.cancerdata.org/roo/C100632,TRG4 - Mandard
+http://www.cancerdata.org/roo/C100633,TRG5 - Mandard
+http://www.cancerdata.org/roo/C100634,TRG0 - Dworak
+http://www.cancerdata.org/roo/C100635,TRG1 - Dworak
+http://www.cancerdata.org/roo/C100636,TRG2 - Dworak
+http://www.cancerdata.org/roo/C100637,TRG3 - Dworak
+http://www.cancerdata.org/roo/C100638,TRG4 - Dworak
+http://www.cancerdata.org/roo/C100644,Deep Inspiration Breath-Hold
+http://www.cancerdata.org/roo/C100644,DIBH
+http://www.cancerdata.org/roo/C100645,Breathing Modification Procedure
+http://www.cancerdata.org/roo/C100646,Abdominal Compression
+http://www.cancerdata.org/roo/C100647,Respiratory Gated Radiation Therapy
+http://www.cancerdata.org/roo/C100648,Tumor Tracking Radiation Therapy
+http://www.cancerdata.org/roo/C100660,Partial Mesorectal Excision
+http://www.cancerdata.org/roo/C100660,PME
+http://www.cancerdata.org/roo/C100684,Unilateral Lymph Node Dissection
+http://www.cancerdata.org/roo/C100685,Bilateral Lymph Node Dissection
+http://www.cancerdata.org/roo/C100701,Extra mesorectal lymph node group
+http://www.cancerdata.org/roo/P100000,has age
+http://www.cancerdata.org/roo/P100196,has organism attribute
+http://www.cancerdata.org/roo/P100027,has unit
+http://www.cancerdata.org/roo/P100042,has value
+http://www.cancerdata.org/roo/P100004,has intent
+http://www.cancerdata.org/roo/P100005,has heart disorder
+http://www.cancerdata.org/roo/P100020,has disease
+http://www.cancerdata.org/roo/P100008,has neoplasm
+http://www.cancerdata.org/roo/P100015,has age at pathology
+http://www.cancerdata.org/roo/P100016,has age at diagnosis
+http://www.cancerdata.org/roo/P100017,has age at start rt
+http://www.cancerdata.org/roo/P100018,has biological sex
+http://www.cancerdata.org/roo/P100082,has occurrence
+http://www.cancerdata.org/roo/P100021,has histology
+http://www.cancerdata.org/roo/P100022,has finding
+http://www.cancerdata.org/roo/P100023,has prescribed radiation dose
+http://www.cancerdata.org/roo/P100260,has dose
+http://www.cancerdata.org/roo/P100024,has procedure
+http://www.cancerdata.org/roo/P100025,has stage
+http://www.cancerdata.org/roo/P100026,has survival
+http://www.cancerdata.org/roo/P100212,has property
+http://www.cancerdata.org/roo/P100028,has vital status
+http://www.cancerdata.org/roo/P100202,has location
+http://www.cancerdata.org/roo/P100061,has person identifier
+http://www.cancerdata.org/roo/P100318,has id
+http://www.cancerdata.org/roo/P100214,has measurement
+http://www.cancerdata.org/roo/P100216,has degree
+http://www.cancerdata.org/roo/P100218,has performance status
+http://www.cancerdata.org/roo/P100219,has AJCC version
+http://www.cancerdata.org/roo/P100267,has version
+http://www.cancerdata.org/roo/P100220,has body mass index
+http://www.cancerdata.org/roo/P100221,has body part
+http://www.cancerdata.org/roo/P100236,has part
+http://www.cancerdata.org/roo/P100222,has chemo timing
+http://www.cancerdata.org/roo/P100231,has method
+http://www.cancerdata.org/roo/P100223,has count
+http://www.cancerdata.org/roo/P100224,has fraction count
+http://www.cancerdata.org/roo/P100225,has image count
+http://www.cancerdata.org/roo/P100226,has patient count
+http://www.cancerdata.org/roo/P100227,has count pet 5g
+http://www.cancerdata.org/roo/P100228,has date
+http://www.cancerdata.org/roo/P100229,has alive last checked date
+http://www.cancerdata.org/roo/P100238,has cause of death
+http://www.cancerdata.org/roo/P100239,has chemo start date
+http://www.cancerdata.org/roo/P100241,has clinical m stage
+http://www.cancerdata.org/roo/P100243,has clinical stage
+http://www.cancerdata.org/roo/P100242,has clinical n stage
+http://www.cancerdata.org/roo/P100244,has clinical t stage
+http://www.cancerdata.org/roo/P100247,has cumulative dose
+http://www.cancerdata.org/roo/P100248,has body height
+http://www.cancerdata.org/roo/P100249,has body weight
+http://www.cancerdata.org/roo/P100250,has date of death
+http://www.cancerdata.org/roo/P100251,has date of diagnosis
+http://www.cancerdata.org/roo/P100252,has date of procedure
+http://www.cancerdata.org/roo/P100253,has death
+http://www.cancerdata.org/roo/P100254,has death finding
+http://www.cancerdata.org/roo/P100255,has comorbidity
+http://www.cancerdata.org/roo/P100257,has disease date
+http://www.cancerdata.org/roo/P100258,has disease finding
+http://www.cancerdata.org/roo/P100259,has disease qualifier
+http://www.cancerdata.org/roo/P100297,has qualifier
+http://www.cancerdata.org/roo/P100261,has duration
+http://www.cancerdata.org/roo/P100262,has dysphagia
+http://www.cancerdata.org/roo/P100263,has dyspnea
+http://www.cancerdata.org/roo/P100264,has fev1 percentage
+http://www.cancerdata.org/roo/P100265,has fev1 test
+http://www.cancerdata.org/roo/P100268,has fraction dose
+http://www.cancerdata.org/roo/P100269,has fractionation part
+http://www.cancerdata.org/roo/P100271,has hypertension
+http://www.cancerdata.org/roo/P100273,has life
+http://www.cancerdata.org/roo/P100274,has marital status
+http://www.cancerdata.org/roo/P100275,has max esophagus dose
+http://www.cancerdata.org/roo/P100276,has mean esophagus dose
+http://www.cancerdata.org/roo/P100277,has mean lung dose
+http://www.cancerdata.org/roo/P100278,has modality
+http://www.cancerdata.org/roo/P100280,has nodal tumor volume
+http://www.cancerdata.org/roo/P100313,has tumor volume
+http://www.cancerdata.org/roo/P100281,has overall duration
+http://www.cancerdata.org/roo/P100282,has pacs patient
+http://www.cancerdata.org/roo/P100283,has pacs series
+http://www.cancerdata.org/roo/P100284,has pacs study
+http://www.cancerdata.org/roo/P100285,has pathological m stage
+http://www.cancerdata.org/roo/P100287,has pathological stage
+http://www.cancerdata.org/roo/P100286,has pathological n stage
+http://www.cancerdata.org/roo/P100288,has pathological t stage
+http://www.cancerdata.org/roo/P100291,has patient finding
+http://www.cancerdata.org/roo/P100292,has patient guid
+http://www.cancerdata.org/roo/P100314,has uid
+http://www.cancerdata.org/roo/P100293,has primary tumor volume
+http://www.cancerdata.org/roo/P100295,has procedure date
+http://www.cancerdata.org/roo/P100296,has procedure duration
+http://www.cancerdata.org/roo/P100298,has rt dose
+http://www.cancerdata.org/roo/P100299,has rt end date
+http://www.cancerdata.org/roo/P100300,has rt start date
+http://www.cancerdata.org/roo/P100301,has radiation therapy
+http://www.cancerdata.org/roo/P100302,has secondary neoplasm
+http://www.cancerdata.org/roo/P100303,has series
+http://www.cancerdata.org/roo/P100304,has series guid
+http://www.cancerdata.org/roo/P100305,has series uid
+http://www.cancerdata.org/roo/P100306,has smoking status
+http://www.cancerdata.org/roo/P100307,has study
+http://www.cancerdata.org/roo/P100308,has study guid
+http://www.cancerdata.org/roo/P100309,has study uid
+http://www.cancerdata.org/roo/P100310,has surgical procedure
+http://www.cancerdata.org/roo/P100311,has survival time
+http://www.cancerdata.org/roo/P100312,has tumor burden
+http://www.cancerdata.org/roo/P100315,has volume
+http://www.cancerdata.org/roo/P100317,has date observed
+http://www.cancerdata.org/roo/P100327,has birth
+http://www.cancerdata.org/roo/P100331,has recurrence status
+http://www.cancerdata.org/roo/P100332,has recurrence time
+http://www.cancerdata.org/roo/P100337,has chemo end date
+http://www.cancerdata.org/roo/P100343,has laterality
+http://www.cancerdata.org/roo/P100391,has process
+http://www.cancerdata.org/roo/P100395,has manifestation
+http://www.cancerdata.org/roo/P100394,has overall stage
+http://www.cancerdata.org/roo/P100397,has result
+http://www.cancerdata.org/roo/P100430,has tributary
+http://www.cancerdata.org/roo/P100429,has ingredient
+http://www.cancerdata.org/roo/P100433,has branch
+http://www.cancerdata.org/roo/P100440,has conceptual part
+http://www.cancerdata.org/roo/P100442,has evaluation
+http://www.cancerdata.org/roo/P100446,has issue
+http://www.cancerdata.org/roo/P100448,has derivative
+http://www.cancerdata.org/roo/P100450,has developmental form

@@ -1,0 +1,38 @@
+IRI,LABEL
+http://localhost/rdf/ontology/Outcome,Outcome
+http://localhost/rdf/ontology/Outcome.PCI,PCI
+http://localhost/rdf/ontology/Outcome.Geboortemaand,Birth Month
+http://localhost/rdf/ontology/Outcome.Geslacht,Gender
+http://localhost/rdf/ontology/Outcome.Invoerdatum,Entry Date
+http://localhost/rdf/ontology/Outcome.VraagType,Question Type
+http://localhost/rdf/ontology/Outcome.Vraagstelling,Question
+http://localhost/rdf/ontology/Outcome.Antwoord,Answer
+http://localhost/rdf/ontology/Tumour_Treatment.PCI,PCI
+http://localhost/rdf/ontology/Tumour_Treatment.Geboortemaand,Birth Month
+http://localhost/rdf/ontology/Tumour_Treatment.Datum_overlijden,Date of Death
+http://localhost/rdf/ontology/Tumour_Treatment.Datum_diagnose,Date of Diagnosis
+http://localhost/rdf/ontology/Tumour_Treatment.Geslacht,Gender
+http://localhost/rdf/ontology/Tumour_Treatment.Overleden,Death
+http://localhost/rdf/ontology/Tumour_Treatment.Laatste_datum_check_in_leven,is alive last checked date
+http://localhost/rdf/ontology/Tumour_Treatment.Diagnose,Diagnose
+http://localhost/rdf/ontology/Tumour_Treatment.cT,clinical T stage
+http://localhost/rdf/ontology/Tumour_Treatment.cN,clinical N stage
+http://localhost/rdf/ontology/Tumour_Treatment.cM,clinical M stage
+http://localhost/rdf/ontology/Tumour_Treatment.PBD,PBD
+http://localhost/rdf/ontology/Tumour_Treatment.PBD,plan radiation target area
+http://localhost/rdf/ontology/Tumour_Treatment.Zorgplan,Health plan
+http://localhost/rdf/ontology/Tumour_Treatment.Doelvolume_deel,Target volume part
+http://localhost/rdf/ontology/Tumour_Treatment.EPD_-_Voorgeschreven_fractiedosis,EPD - Prescribed fraction dose
+http://localhost/rdf/ontology/Tumour_Treatment.EPD_-_Voorgeschreven_aantal_fracties,EPD - Prescribed number of fractions
+http://localhost/rdf/ontology/Tumour_Treatment.EPD_-_Voorgeschreven_aantal_fracties_per_dag,EPD - Prescribed number of fractions per day
+http://localhost/rdf/ontology/Tumour_Treatment.EPD_-_Voorgeschreven_plandosis,EPD - Prescribed planosis
+http://localhost/rdf/ontology/Tumour_Treatment.Gegeven_fracties_voor_PBD,Fractions given for PBD
+http://localhost/rdf/ontology/Tumour_Treatment.Gegeven_plandosis_voor_PBD,Planned dose given for PBD
+http://localhost/rdf/ontology/trace_xe_action_map,trace_xe_action_map
+http://localhost/rdf/ontology/trace_xe_action_map.trace_column_id,trace column id
+http://localhost/rdf/ontology/trace_xe_action_map.package_name,package name
+http://localhost/rdf/ontology/trace_xe_action_map.xe_action_name,xe action name
+http://localhost/rdf/ontology/trace_xe_event_map,trace_xe_event_map
+http://localhost/rdf/ontology/trace_xe_event_map.trace_event_id,trace event id
+http://localhost/rdf/ontology/trace_xe_event_map.package_name,package name
+http://localhost/rdf/ontology/trace_xe_event_map.xe_event_name,xe event name
